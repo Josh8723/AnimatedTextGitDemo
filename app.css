@@ -1,4 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
 .letters{
-    font-size: 10em;
+    font-size: 5rem;
+    transition: color 1000ms;
     /* color: red; */
 }
