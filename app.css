@@ -4,12 +4,12 @@ body{
     align-items: center;
     height: 100vh;
     color: darkslateblue;
-    background-color: teal
+    background-color: rgb(75, 104, 104)
 }
 
 
 .letters{
-    font-size: 15rem;
+    font-size: 25rem;
     transition: color 1000ms;
     /* color: red; */
 }
